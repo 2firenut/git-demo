@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("push local test");
         System.out.println("1");
+        System.out.println("2");
     }
 }
