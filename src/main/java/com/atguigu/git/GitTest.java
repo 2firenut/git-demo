@@ -12,9 +12,9 @@ public class GitTest {
         System.out.println("poll test");
         System.out.println("push test");
         System.out.println("push local test");
-        System.out.println("112");
-        System.out.println("2");
-        System.out.println("3");
-        System.out.println("4");
+        System.out.println("66");
+        System.out.println("233");
+        System.out.println("333");
+        System.out.println("66");
     }
 }
