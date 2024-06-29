@@ -14,7 +14,7 @@ public class GitTest {
         System.out.println("push local test");
         System.out.println("66");
         System.out.println("233");
-        System.out.println("333");
-        System.out.println("66");
+        System.out.println("33");
+        System.out.println("661");
     }
 }
